@@ -201,7 +201,7 @@
 
 .productWrap .article1 .bg {
     height: 90%;
-    background: url(static/media/productimg1.67d55860.jpg) no-repeat 50%;
+    background: url('static/media/productimg1.67d55860.jpg') no-repeat 50%;
     background-size: cover;
     color: #fff
 }
